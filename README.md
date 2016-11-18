@@ -50,7 +50,8 @@ Jabberstom cuenta con los siguientes comandos.
 |!pokemon | encuentra un salvaje pokemon! | xD
 |!regla | Puedes editar las reglas obviamente |!regla: ves todas las reglas !regla r1: ves la regla 1
 |!slap | Pegale a un user. | !slap Jeff
-| !version | Version del bot
+|!version | Version del bot
+|!s | Saludar a un nuevo usuario | !s o !s Jeff
 
 ### Desarrollador, Soporte y Contacto
 ---
