@@ -3,7 +3,7 @@ import random
 
 
 def run_command(msg, *args):
-    """Taunts the given user"""
+    """Tu macre es tan .. xD"""
     dirpath = os.path.dirname(os.path.realpath(__file__))
     filepath = os.path.join(dirpath, 'mother_jokes.txt')
     with open(filepath) as f:

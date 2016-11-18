@@ -3,7 +3,7 @@ import html
 
 
 def run_command(msg, *args):
-    """Displays a random Chuck Norris joke from http://icndb.com
+    """Muestra chistes de chuck norris http://icndb.com
 
     You can optionally change the name of the main character by appending \
     him as arguments: chuck <firstname> <lastname>
@@ -11,7 +11,7 @@ def run_command(msg, *args):
     params = None
     if args:
         if len(args) != 2:
-            return 'groupchat', 'You must append a firstname *and* a lastname'
+            return 'groupchat', 'Tu tienes que poner el primer nombre *Y tambien* el Apellido'
         params = {'firstName': args[0], 'lastName': args[1]}
     request = requests.get('http://api.icndb.com/jokes/random',
                            params=params)
