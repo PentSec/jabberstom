@@ -67,19 +67,3 @@ Smacks {nick} con Redhat 7
 Slaps {nick} con Windows Update
 Burris {nick} bajo un manzano
 Picaduras {nick} con todas las abejas de una colmena
-Erteilt {sustantivo} a Pflichtwatschn
-Gibt {sustantivo} un Gnackfotzn
-Reyßt für {nick} un Packl Fotzn auf
-Betoniert {sustantivo} erst amoi oane
-Streicht {sustantivo}
-Kann die Pflichtwatschn für'n {nick} nimmer festhoitn. Klatsch
-Lässt für'n {nc} den Watschnbaum umfallen
-Gibt {sustantivo} a Bockfotzn
-Findet dass {nick} a Bockfotzngsicht es
-Haut {nick} auf d 'Goschn
-Streicht {nick} oane auf, die er ned so schnäi vergisst
-Klatscht dem windigen Zigarettenbürschel {nick} oane
-Gibt {sustantivo} a Watschn. Batsch!
-Schmiert {sustantivo} den scheiß goidana Schua hinter'd Ohrn
-A Watschn für {nick} es schneller gschmiert als a Butterbrot
-Gleich klatscht es, aber kein Beifall @ {nick}!
