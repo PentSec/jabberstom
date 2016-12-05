@@ -22,7 +22,7 @@ $ nano jabberstom.py
 ```py
 jid = 'jeff@jabberes.org' #edita esto por una cuenta de jabber
 pwd = "pasword here" #Edita esto por tu password
-muc_room = 'shl@conf.jabberes.org' #edita esto por el servidor y la sala
+muc_room = 'sala@conf.jabberes.org' #edita esto por el servidor y la sala
 muc_nick = 'jabberstom' #Esto no lo edites el nombre es lindo xd
 ```
 ```bash
